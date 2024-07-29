@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1",
+    "userId": "1",
+    "description": "Salary",
+    "category": "Income",
+    "amount": 5100,
+    "date": "2023-06-01"
+  },
+  {
+    "id": "2",
+    "userId": "1",
+    "description": "Rent",
+    "category": "Expense",
+    "amount": 1200,
+    "date": "2023-06-05"
+  },
+  {
+    "id": "3",
+    "userId": "1",
+    "description": "Groceries",
+    "category": "Expense",
+    "amount": 300,
+    "date": "2023-06-10"
+  },
+  {
+    "id": "4",
+    "userId": "2",
+    "description": "Freelance Project",
+    "category": "Income",
+    "amount": 1500,
+    "date": "2023-06-15"
+  },
+  {
+    "id": "5",
+    "userId": "2",
+    "description": "Utilities",
+    "category": "Expense",
+    "amount": 200,
+    "date": "2023-06-20"
+  },
+  {
+    "id": "7",
+    "userId": "3",
+    "description": "asdf",
+    "amount": 123,
+    "type": "expense",
+    "date": "2024-07-22"
+  },
+  {
+    "id": "8",
+    "userId": "3",
+    "description": "asdfg",
+    "amount": 1234,
+    "type": "expense",
+    "date": "2024-07-01"
+  },
+  {
+    "id": "9",
+    "userId": "1",
+    "description": "azscv",
+    "amount": 1234,
+    "type": "income",
+    "date": "2024-07-12"
+  },
+  {
+    "id": "10",
+    "userId": "8",
+    "description": "salary",
+    "amount": 6700,
+    "type": "income",
+    "date": "2024-07-20"
+  },
+  {
+    "id": "11",
+    "userId": "8",
+    "description": "princy",
+    "amount": 90000,
+    "type": "expense",
+    "date": "2024-07-25"
+  },
+  {
+    "id": "11",
+    "userId": "3",
+    "description": "food",
+    "amount": 2345,
+    "type": "expense",
+    "date": "2024-07-02"
+  },
+  {
+    "id": "12",
+    "userId": "3",
+    "description": "qwerghj",
+    "amount": 123456,
+    "type": "income",
+    "date": "2024-07-11"
+  },
+  {
+    "id": "13",
+    "userId": "9",
+    "description": "asdf",
+    "amount": 6000,
+    "type": "income",
+    "date": "2024-07-08"
+  },
+  {
+    "id": "14",
+    "userId": "9",
+    "description": "asd",
+    "amount": 500,
+    "type": "expense",
+    "date": "2024-07-10"
+  },
+  {
+    "id": "15",
+    "userId": "9",
+    "description": "lkjhgfdsa",
+    "amount": 98765432,
+    "type": "expense",
+    "date": "2024-07-31"
+  },
+  {
+    "id": "16",
+    "userId": "1",
+    "description": "zxcv",
+    "amount": 1000,
+    "type": "income",
+    "date": "2024-05-22"
+  },
+  {
+    "id": "17",
+    "userId": "1",
+    "description": "zxc",
+    "amount": 1000,
+    "type": "income",
+    "date": "2024-07-01"
+  },
+  {
+    "id": "18",
+    "userId": 3,
+    "description": "asdf",
+    "amount": 10000,
+    "type": "income",
+    "date": "2024-07-01"
+  }
+]
